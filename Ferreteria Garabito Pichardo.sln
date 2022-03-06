@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferreteria Garabito Pichardo", "Ferreteria Garabito Pichardo.csproj", "{0FC18C03-BF6C-4007-A496-4C97DDA2DC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Software FGP
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC18C03-BF6C-4007-A496-4C97DDA2DC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC18C03-BF6C-4007-A496-4C97DDA2DC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC18C03-BF6C-4007-A496-4C97DDA2DC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC18C03-BF6C-4007-A496-4C97DDA2DC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E932EA-3ABC-4786-8754-1EEBD95F7089}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\bin\Debug\net6.0-windows\Ferreteria Garabito Pichardo.exe
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\bin\Debug\net6.0-windows\Ferreteria Garabito Pichardo.deps.json
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\bin\Debug\net6.0-windows\Ferreteria Garabito Pichardo.runtimeconfig.json
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\bin\Debug\net6.0-windows\Ferreteria Garabito Pichardo.dll
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\bin\Debug\net6.0-windows\Ferreteria Garabito Pichardo.pdb
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria_Garabito_Pichardo.Form1.resources
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.dll
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\refint\Ferreteria Garabito Pichardo.dll
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.pdb
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria Garabito Pichardo.genruntimeconfig.cache
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\ref\Ferreteria Garabito Pichardo.dll
+C:\Users\diego\source\repos\Ferreteria Garabito Pichardo\obj\Debug\net6.0-windows\Ferreteria_Garabito_Pichardo.Properties.Resources.resources
