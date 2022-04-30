@@ -1,0 +1,36 @@
+Recuerde connectar la base de datos de su servidor
+Le deje el Script de las dos tablas al lado de este.
+
+--------LOGIN------------------------------+
+                                           [
+Usuarios                                   [ 
+                                           [
+USER     /  Contraseña / Tipo              [    
+                                           [
+Danilo   /     2613    / Usuario           [
+Dorca    /     3013    / Usuario           [
+                                           [
+Diego    /     2120    /Administrador      [
+Dawerky  /     0123    /Administrador      [
+                                           [
+                                           [
+-------------------------------------------+                                          
+                                     
+Ojo: Solo los administradores tienen acceso al DML                       
+                                           
+-------------------Productos---------------+
+                                           [
+Usuarios                                   [ 
+                                           [
+Codigo   /    Nombre    / Precio           [    
+                                           [
+63       /   Licuadora  /  2450            [
+299      /   Alicate    / 260              [
+100      /   Clavo      / 2                [
+209      /   Barrena      /68              [
+                                           [
+                                           [
+-------------------------------------------+  
+
+En el programa puede Crear y Consultar productos 
+por partes del Administrador
