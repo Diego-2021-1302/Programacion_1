@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Runtime.InteropServices;
 
 namespace Ferreteria_Garabito_Pichardo
 {
@@ -17,8 +18,16 @@ namespace Ferreteria_Garabito_Pichardo
         {
             InitializeComponent();
         }
-        SqlConnection connection = new SqlConnection("server=UNICOMICOPTERO- ; database = FGP ; INTEGRATED SECURITY = TRUE");
+        
+        //Biblioteca para mover el Formulario
+        [DllImport("user32.dll", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.dll", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
+
+        //Conexion de la base de datos del LOGIN
+        readonly SqlConnection connection = new SqlConnection("server=Diego-Garabito ; database = FGP ; INTEGRATED SECURITY = TRUE");
         private void Form_Login(string usuario, string Contraseña)
         {
             try
@@ -37,7 +46,7 @@ namespace Ferreteria_Garabito_Pichardo
 
                     this.Hide();
                     if (dt.Rows[0][1].ToString() == "Administrador"){ 
-                        new Admin(dt.Rows[0][0].ToString()).Show();
+                        new Menu_Admin(dt.Rows[0][0].ToString()).Show();
              
                     }
                     else if (dt.Rows[0][1].ToString() == "Usuario")
@@ -63,16 +72,7 @@ namespace Ferreteria_Garabito_Pichardo
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form_Login(this.textBox1.Text, this.textBox2.Text);
-        }
-
-        private void Boton_Productos_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        // Funciones del Formulario
         private void Boton_Maximizar_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Maximized;
@@ -95,6 +95,22 @@ namespace Ferreteria_Garabito_Pichardo
         private void Boton_Cerrar_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void Boton_Inicio_Click(object sender, EventArgs e)
+        {
+            Form_Login(this.Texbox_Usuario.Text, this.Texbox_Contraseña.Text);
+        }
+
+        private void Barra_Titulo_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void Barra_Titulo_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

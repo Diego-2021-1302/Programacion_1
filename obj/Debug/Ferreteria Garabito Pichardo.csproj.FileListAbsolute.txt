@@ -11,3 +11,17 @@ C:\Users\diego\Desktop\Ferreteria Garabito Pichardo\obj\Debug\Ferreteria Garabit
 C:\Users\diego\Desktop\Ferreteria Garabito Pichardo\obj\Debug\Ferreteria_Garabito_Pichardo.Admin.resources
 C:\Users\diego\Desktop\Ferreteria Garabito Pichardo\obj\Debug\Ferreteria_Garabito_Pichardo.Login.resources
 C:\Users\diego\Desktop\Ferreteria Garabito Pichardo\obj\Debug\Ferreteria_Garabito_Pichardo.Usuario.resources
+C:\Users\diego\Desktop\Programacion_1\bin\Debug\Ferreteria Garabito Pichardo.exe.config
+C:\Users\diego\Desktop\Programacion_1\bin\Debug\Ferreteria Garabito Pichardo.exe
+C:\Users\diego\Desktop\Programacion_1\bin\Debug\Ferreteria Garabito Pichardo.pdb
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria_Garabito_Pichardo.Login.resources
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria_Garabito_Pichardo.Properties.Resources.resources
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria_Garabito_Pichardo.Usuario.resources
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.exe
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria Garabito Pichardo.pdb
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria_Garabito_Pichardo.Menu_Admin.resources
+C:\Users\diego\Desktop\Programacion_1\obj\Debug\Ferreteria_Garabito_Pichardo.Productos_Form.resources
